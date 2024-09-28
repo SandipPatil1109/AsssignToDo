@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignToDo</string>
+    <string name="todo_title">My To Do List</string>
+    <string name="txtSignup">Sign Up please</string>
+    <string name="txtUploadImage">Upload Image</string>
+    <string name="txtSelectUserType">Select UserType</string>
+</resources>
